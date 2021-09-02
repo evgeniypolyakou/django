@@ -34,3 +34,7 @@
 
 ## Accuracy
 **I have created this project in XGBoost algorithm. Among this, the accuracy of the crop recommendation is 99%.**
+
+## Preview
+![image](https://user-images.githubusercontent.com/49581684/131889389-627443d0-d396-4f97-9285-bf3f2f66b94e.png)
+
