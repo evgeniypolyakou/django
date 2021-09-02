@@ -36,5 +36,10 @@
 **I have created this project in XGBoost algorithm. Among this, the accuracy of the crop recommendation is 99%.**
 
 ## Preview
-![image](https://user-images.githubusercontent.com/49581684/131889389-627443d0-d396-4f97-9285-bf3f2f66b94e.png)
+![127 0 0 1_8000_Recommend_ (2)](https://user-images.githubusercontent.com/49581684/131891614-ec864446-f244-4fa0-a501-fe0ed0837cbd.png)
 
+![127 0 0 1_8000_](https://user-images.githubusercontent.com/49581684/131891465-1924bbb1-00fc-41b2-a9b6-073d8d2038f2.png)
+
+![127 0 0 1_8000_Crop_ (1)](https://user-images.githubusercontent.com/49581684/131891581-44961652-878c-417a-8da5-bb7a31ccc50d.png)
+
+![127 0 0 1_8000_Crop_orange_](https://user-images.githubusercontent.com/49581684/131891601-bcdde01e-531f-4477-b195-585309cee935.png)
