@@ -1,7 +1,7 @@
 from django.shortcuts import redirect, render
 from django.http import HttpResponse
 from .models import *
-import numpy as np
+import numpy *
 import pickle as p
 
 
